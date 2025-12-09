@@ -1,0 +1,102 @@
+.img1 {
+    width: 1360px;
+    height: 385px;
+}
+
+.h11 {
+    font-size: 28px;
+    color: white;
+}
+
+.div1 {
+    display: flex;
+    position: absolute;
+    top: 13px;
+    left: 42px;
+}
+
+.div2 {
+    padding-top: 25px;
+    padding-left: 100px;
+    color: white;
+    display: flex;
+    gap: 40px;
+}
+
+.input1 {
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    position: absolute;
+    left: 980px;
+    top: 10px;
+}
+
+.img3 {
+    position: absolute;
+    left: 1250px;
+    top: 30px;
+}
+
+.div3 {
+    width: 260px;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    bottom: 550px;
+    left: 40px;
+}
+
+.button1 {
+    width: 109px;
+    height: 55px;
+    background-color: #76B900;
+}
+
+.h12 {
+    text-align: center;
+    font-size: 48px;
+}
+
+.div4 {
+    width: 290px;
+    height: 302px;
+    box-shadow: +5px +5px +20px;
+    position: relative;
+}
+
+.text1 {
+    margin: auto;
+    width: 178px;
+    font-size: 18px;
+}
+
+.a1 {
+    margin-left: 100px;
+    position: absolute;
+    bottom: 20px;
+}
+
+.div5 {
+    display: flex;
+    gap: 100px;
+}
+
+.text5 {
+    font-size: 18px;
+    width: 399px;
+}
+
+.div8 {
+    display: flex;
+    gap: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.button3 {
+    width: 233px;
+    height: 62px;
+    background-color: #76B900;
+    font-size: 18px;
+}
